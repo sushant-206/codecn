@@ -1,0 +1,11 @@
+website - summary
+what is socket
+types of socket
+TCP program and output
+
+client server
+waiting for client
+client connected 
+hello message received and displayed from client
+response sent to client
+s
